@@ -25,4 +25,5 @@ El equipo de marketing y retención de un e-commerce global identificó una desa
 3. **Optimización de Presupuesto:** Cesar de inmediato las campañas agresivas de pauta publicitaria digital dirigidas a los usuarios *Perdidos e Inactivos*, dado que su costo de reactivación supera el valor futuro estimado (LTV).
 
 ---
-▶️ **[Haz clic aquí para interactuar con el Dashboard en Tableau Public][](https://public.tableau.com/views/Retail_17934189080760/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
+▶️ **[Haz clic aquí para interactuar con el Dashboard en Tableau Public][]
+(https://public.tableau.com/views/Retail_17934189080760/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
